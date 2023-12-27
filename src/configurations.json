@@ -1,0 +1,26 @@
+{
+  "backgroundType": "gradient",
+  "plainBackgroundMode": "nightlight",
+  "devIntro": "Hi, I am Mehmet Abak",
+  "devDesc": "Android Dev | Data Science Engineer | Full Stack Dev | Blogger",
+  "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
+  "backgroundImageUrl": "http://hdwpro.com/wp-content/uploads/2017/03/Art-Background-Image.png",
+  "icons": [
+    {
+      "image": "fa-wordpress",
+      "url": "https://mehmetabak.is-a.dev"
+    },
+    {
+      "image": "fa-github",
+      "url": "https://github.com/memoli0"
+    },
+    {
+      "image": "fa-twitter",
+      "url": "https://twitter.com/Mehmetn45363159"
+    },
+    {
+      "image": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/mehmet-a-12a716226/"
+    }
+  ]
+}
