@@ -69,7 +69,4 @@ Please star the repo if found useful as it'll help other devs to react the conte
 ## How about Contributing ?
 **Branch out the repo and customize on top. If your changes awe us, we will for sure merge them back to the repo**.
 
-Big Thanks to Our Contributors : 
-
-- [SeedBot](https://github.com/SeedBoot)
 
