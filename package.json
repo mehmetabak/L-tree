@@ -1,7 +1,7 @@
 {
-  "name": "My-Landing-Page",
+  "name": "lTree",
   "version": "0.1.1",
-  "homepage": "https://singhkshitij.github.io",
+  "homepage": "https://l-tree.vercel.app/",
   "private": true,
   "dependencies": {
     "react": "^16.8.4",
