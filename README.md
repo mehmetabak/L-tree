@@ -17,7 +17,7 @@
 </p>
 
 
-# Documentation and Main Repository: 
+## Documentation and Main Repository: 
    [https://github.com/singhkshitij/My-Landing-Page/wiki/](https://github.com/singhkshitij/My-Landing-Page/wiki/)
 
 ## Demo
