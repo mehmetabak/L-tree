@@ -7,19 +7,19 @@
   "backgroundImageUrl": "http://hdwpro.com/wp-content/uploads/2017/03/Art-Background-Image.png",
   "icons": [
     {
-      "image": "fas fa-blog",
+      "image": "fa-solid fa-blog",
       "url": "https://mehmetabak.is-a.dev"
     },
     {
-      "image": "fab fa-github",
+      "image": "fa-brands fa-github",
       "url": "https://github.com/memoli0"
     },
     {
-      "image": "fab fa-twitter",
+      "image": "fa-brands fa-x-twitter",
       "url": "https://twitter.com/Mehmetn45363159"
     },
     {
-      "image": "fab fa-linkedin",
+      "image": "fa-brands fa-linkedin-in",
       "url": "https://www.linkedin.com/in/mehmet-a-12a716226/"
     }
   ]
