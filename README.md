@@ -22,7 +22,6 @@
 
 ## Demo
   [https://l-tree.vercel.app/](https://l-tree.vercel.app/) <br/>
-  Note: Click on the page to see Magic
 
 ## What's Included ?
 
