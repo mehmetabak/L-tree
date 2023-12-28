@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-  Minimal Portfolio Page Builted with React
+  Minimal Portfolio Page Built with React
 </h3>
 
 <p align="center">
@@ -17,12 +17,11 @@
 </p>
 
 
-# Documentation and Main Repository: 
+## Documentation and Main Repository: 
    [https://github.com/singhkshitij/My-Landing-Page/wiki/](https://github.com/singhkshitij/My-Landing-Page/wiki/)
 
 ## Demo
   [https://l-tree.vercel.app/](https://l-tree.vercel.app/) <br/>
-  Note: Click on the page to see Magic
 
 ## What's Included ?
 
