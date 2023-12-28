@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://singhkshitij.github.io/My-Landing-Page/">
+  <a href="https://l-tree.vercel.app/">
     <img alt="My Landing Page" src="https://github.com/singhkshitij/My-Landing-Page/blob/master/sample/My%20Portfolio%20Page.png">
   </a>
 </p>
 
 <h3 align="center">
-  Minimal Portfolio Page Built with React
+  Minimal Portfolio Page Builted with React
 </h3>
 
 <p align="center">
@@ -17,17 +17,12 @@
 </p>
 
 
-# Documentation : 
+# Documentation and Main Repository: 
    [https://github.com/singhkshitij/My-Landing-Page/wiki/](https://github.com/singhkshitij/My-Landing-Page/wiki/)
 
 ## Demo
-  [https://singhkshitij.github.io/My-Landing-Page/](https://singhkshitij.github.io/My-Landing-Page/) <br/>
+  [https://l-tree.vercel.app/](https://l-tree.vercel.app/) <br/>
   Note: Click on the page to see Magic
-
-## Why?
-One fine day i was going through GitHub and found an awesome concept on [Dinesh Pandiyan's Profile](https://github.com/flexdinesh/dev-landing-page) and saw that people really liked it and so did i. I really liked the minimalist approach and hence thought that i should take it a step forward. 
-
-Actually the original repo has some static files in which you need to manually go and edit the source code in order to get your landing page up and running. So i have bootstrapped the same content with create-react-app, i.e **REACTJS**. Now you only need to change one config file, run couple of commands and that's it. 
 
 ## What's Included ?
 
