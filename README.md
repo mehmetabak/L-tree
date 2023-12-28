@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-  Minimal Portfolio Page Builted with React
+  Minimal Portfolio Page Built with React
 </h3>
 
 <p align="center">
