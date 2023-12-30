@@ -34,11 +34,14 @@
   right: 25px;
 }
 
+.icons-social {
+  align-items: center;
+  justify-content: center;
+}
+
 .icons-social i {
   padding: 10px;
   font-size: 2em;
-  align-items: center;
-  justify-content: center;
 }
 
 @media (min-width: 576px) {
